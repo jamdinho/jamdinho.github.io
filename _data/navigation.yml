@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: Recetas
+    url: /recetas/
+  - title: Archivo
+    url: /year-archive/
+  - title: Etiquetas
+    url: /tags/
+    
+# sidebar navigation list sample
+sidebar-main:
+  - title: "Archive"
+    children:
+      - title: "by Year"
+        url: /year-archive/
