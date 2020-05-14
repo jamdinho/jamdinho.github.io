@@ -1,0 +1,13 @@
+# Authors
+
+Jamdinho:
+  name        : "jamdinho"
+  bio         : "Siempre he sido un gran aficionado a la comida, y desde hace unos años también a cocinar."
+  avatar      : "/assets/images/bio-photo.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "contacto.jamdinho@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jamdinho.es"
