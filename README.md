@@ -1,2 +1,2 @@
 # jamdinho.github.io
-Contenido estático del blog https://jamdinho.es
+Contenido estático de https://jamdinho.es
