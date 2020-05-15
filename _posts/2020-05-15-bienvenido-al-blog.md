@@ -1,6 +1,5 @@
 ---
-title:  "Bienvenido/a a La Cocina de Jamdinho"
-header:
+title:  "Estreno de la web!"
 categories: 
   - blog
 tags:
