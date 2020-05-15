@@ -9,7 +9,7 @@ title_separator          : "|"
 name                     : "jamdinho"
 description              : "Blog de recetas caseras y variadas."
 url                      : "https://jamdinho.es"
-repository               : "Jamdinho/jamdinho.github.io"
+repository               : "jamdinho/jamdinho.github.io"
 masthead_title           : "La Cocina de Jamdinho"
 breadcrumbs              : true
 words_per_minute         : 200
