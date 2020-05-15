@@ -1,10 +1,9 @@
 ---
-title:  "Bienvenido/a a La Cocina de Jamdinho"
-header:
+title:  "Estreno de la web!"
 categories: 
   - blog
 tags:
   - blog
 ---
 
-Bienvenido/a al blog. Nos estrenamos en La Cocina de Jamdinho.
+Bienvenid@ al blog. Nos estrenamos en La Cocina de Jamdinho.
