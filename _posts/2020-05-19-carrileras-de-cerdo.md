@@ -7,8 +7,6 @@ tags:
 
 ---
 
-<img src="{{ https://jamdinho.es/blog/carrileras-de-cerdo }}{{ https://jamdinho.es }}/assets/images/carrilleras.jpeg" alt="Carrilleras de cerdo al vino tinto" class="full">
-
 Ingredientes:
 
 4 Carrilleras de cerdo
