@@ -4,10 +4,10 @@ categories:
   - blog
 tags:
   - blog
-image:
-  - <img src="{{ https://jamdinho.es/blog/carrileras-de-cerdo }}{{ https://jamdinho.es }}/assets/images/carrilleras.jpeg" alt="Carrilleras de cerdo al vino tinto" class="full">
+
 ---
 
+<img src="{{ https://jamdinho.es/blog/carrileras-de-cerdo }}{{ https://jamdinho.es }}/assets/images/carrilleras.jpeg" alt="Carrilleras de cerdo al vino tinto" class="full">
 
 Ingredientes:
 
