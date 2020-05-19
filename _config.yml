@@ -57,7 +57,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "jamdinho"
+  name             : "Jamdinho"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Siempre he sido un gran aficionado a la comida, y desde hace unos años también a cocinar."
   location         : "Murcia"
@@ -68,6 +68,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jamdinho"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCgO71aL-izoB2yFPxyrWcmw?view_as=subscriber"
 
 # Site Footer
 footer:
@@ -75,6 +78,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jamdinho"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCgO71aL-izoB2yFPxyrWcmw?view_as=subscriber"
 
 # Reading Files
 include:

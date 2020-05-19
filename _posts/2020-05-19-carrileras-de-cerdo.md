@@ -5,6 +5,8 @@ header:
   caption: "Instagram: [@jamdinho](https://www.instagram.com/p/B_7jEdpBZTJ/?utm_source=ig_web_copy_link)"
 tags:
   - carnes
+  toc: true
+  toc_label: "Contenido"
 ---
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt=""> -->
