@@ -1,9 +1,7 @@
 # main links links
 main:
-  - title: Recetas
-    url: /recetas/
-  - title: Archivo
-    url: /year-archive/
+  - title: Publicaciones
+    url: /publicaciones/
   - title: Etiquetas
     url: /tags/
     
