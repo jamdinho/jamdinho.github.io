@@ -4,7 +4,7 @@ categories:
   - blog
 tags:
   - blog
-
+html: <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpg" alt="">
 ---
 
 Ingredientes:
