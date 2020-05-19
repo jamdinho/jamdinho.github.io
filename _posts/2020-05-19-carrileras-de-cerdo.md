@@ -1,10 +1,13 @@
 ---
 title: "Carrilleras de cerdo al vino tinto"
+header:
+  image: /assets/images/carrilleras.jpeg
+  caption: "Instagram: [@jamdinho](https://www.instagram.com/p/B_7jEdpBZTJ/?utm_source=ig_web_copy_link)"
 tags:
   - carnes
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt="">
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt=""> -->
 
 ## Ingredientes
 
