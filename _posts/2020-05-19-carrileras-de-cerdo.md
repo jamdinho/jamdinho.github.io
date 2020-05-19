@@ -1,10 +1,8 @@
 ---
-title:  "Carrileras de Cerdo al Vino Tinto"
-categories: 
-  - blog
+title:  "Carrileras de cerdo al vino tinto"
 tags:
-  - blog
-html: <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpg" alt="">
+  - carnes
+html: <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt="">
 ---
 
 Ingredientes:
