@@ -3,20 +3,20 @@ title:  "Carrileras de cerdo al vino tinto"
 tags:
   - carnes
 html: <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt="">
-toc: "Ingredientes"
-- "4 Carrilleras de cerdo"
-- "1 Cebolla tierna grande"
-- "1 Zanahoria"
-- "1 Puerro"
-- "1 Diente de ajo"
-- "1 vaso de vino tinto (200ml. aprox.)"
-- "2 Cucharaditas de pulpa de pimiento choricero"
-- "Agua o caldo de carne"
-- "Un poquito de harina"
-- "1/2 onza de chocolate negro"
-- "1 Nuez de mantequilla"
-- "Aove"
-- "Sal"
+toc: "Ingredientes",
+- "4 Carrilleras de cerdo",
+- "1 Cebolla tierna grande",
+- "1 Zanahoria",
+- "1 Puerro",
+- "1 Diente de ajo",
+- "1 vaso de vino tinto (200ml. aprox.)",
+- "2 Cucharaditas de pulpa de pimiento choricero",
+- "Agua o caldo de carne",
+- "Un poquito de harina",
+- "1/2 onza de chocolate negro",
+- "1 Nuez de mantequilla",
+- "Aove",
+- "Sal",
 - "Pimienta negra molida."
 ---
 
