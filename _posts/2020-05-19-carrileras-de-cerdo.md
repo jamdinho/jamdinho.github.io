@@ -4,7 +4,7 @@ tags:
   - carnes
 ---
 
-html: <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt="">
 
 ## Ingredientes
 
