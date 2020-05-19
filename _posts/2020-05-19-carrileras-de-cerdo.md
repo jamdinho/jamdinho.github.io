@@ -9,7 +9,6 @@ toc: true
 toc_label: "Contenido"
 ---
 
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrilleras.jpeg" alt=""> -->
 
 ## Ingredientes
 
