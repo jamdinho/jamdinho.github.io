@@ -2,8 +2,7 @@
 title: "Penne al pimentón con presa ibérica, champiñones y pimientos del piquillo"
 header:
   image: /assets/images/penne.jpg
-toc: true
-caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CEb6ZG3lswU/)"
+  caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CEb6ZG3lswU/)"
 tags:
   - platos principales
 toc: true
