@@ -1,7 +1,7 @@
 ---
 title: "Bizcochitos de manzana"
 header:
-  image: /assets/images/bizcochitos.jpg
+  image: /assets/images/Bizcochitos.jpg
   caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CF2DG-xlfrA/)"
 tags:
   - reposteria
