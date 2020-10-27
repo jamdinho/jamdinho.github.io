@@ -26,6 +26,9 @@ toc_label: "Contenido"
 - 1 cucharada de harina
 - 1 cucharada de mantequilla
 - 300 ml. de leche
+- Nuez moscada
+- Sal
+- Pimienta negra
 
 
 ## Elaboración
