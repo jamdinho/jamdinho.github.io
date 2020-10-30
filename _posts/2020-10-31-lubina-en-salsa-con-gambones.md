@@ -16,6 +16,7 @@ toc_label: "Contenido"
 - 8 gambones
 - 1/2 cebolla
 - 2 dientes de ajo
+- 1 puñado de guisantes
 - 1 cucharadita de pimiento choricero
 - 1 chorrito de vino blanco
 - 1 vaso de agua
@@ -31,7 +32,7 @@ toc_label: "Contenido"
 
 - A continuación añadiendo un poquito más de aceite si fuese necesario pochamos la cebolla y los ajos bien picaditos durante unos minutos, después pondremos la pulpa de pimiento choricero y la harina, mezclamos todo bien y movemos para que se nos cocine la harina un par de minutos.
 
-- Pondremos el agua e introducimos los lomos de la lubina limpios y salpimentados previamente y un poquito de perejil picado.
+- Pondremos el agua e introducimos los lomos de la lubina limpios y salpimentados previamente, los guisantes, y un poquito de perejil picado.
 
 - Dejaremos a fuego medio/bajo y tapada la cazuela durante unos 10 o 12 minutos, durante ese tiempo rectificaremos de sal e iremos moviendo nuestra cazuela para que vaya espesando y ligando la salsa.
 
