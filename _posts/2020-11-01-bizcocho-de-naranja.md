@@ -35,4 +35,4 @@ toc_label: "Contenido"
 
 - Por último horneamos a 180ºC con calor arriba y abajo unos 45 o 50 minutos, o hasta que al pincharlo con un palillo este salga seco, (sobretodo tened el horno precalentado antes de introducir la masa).
 
-. Una vez cocido lo sacamos y dejamos que enfríe antes de ponerle el azúcar glas, si no lo que pasará es que la masa lo absorberá y desaparecerá y no os quedará blanquito por encima.
+- Una vez cocido lo sacamos y dejamos que enfríe antes de ponerle el azúcar glas, si no lo que pasará es que la masa lo absorberá y desaparecerá y no os quedará blanquito por encima.
