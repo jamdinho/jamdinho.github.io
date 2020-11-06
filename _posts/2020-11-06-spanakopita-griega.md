@@ -41,4 +41,4 @@ toc_label: "Contenido"
 
 - Engrasamos la tarta por encima y le echamos tambén unas gotitas de agua y así nos quedará más crujiente al hornearlo.
 
-- Esparcimos las semillas de sésamo por encima y lo horneamos a 180ºC con calor arriba y abajo unos 45 minutos o hasta que nos coja un color doradito y listo para degustarlo.
+- Esparcimos las semillas de sésamo por encima y lo horneamos a 180ºC con calor arriba y abajo unos 45 minutos o hasta que nos coja un color doradito y listo para degustarlo
