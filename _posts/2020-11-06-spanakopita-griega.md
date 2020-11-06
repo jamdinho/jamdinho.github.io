@@ -37,7 +37,7 @@ toc_label: "Contenido"
 
 - Sacamos la masa filo del frigorífico ya que es muy delicada y debe estar refrigerada hasta el momento de utilizarla porque si no corremos el riesgo que se nos seque y se rompa al manipularla.
 
-- Estiramos las láminas de masa filo de una en una untándolas ligeramente con aceite y las vamos rellenando poniendo unas cucharadas de la mezcla en los márgenes y enrollamos como si fuese un canelón y las colocaremos en un molde engrasado con aceite en forma de espiral, comenzando del centro a fuera.
+- Estiramos las láminas de masa filo de una en una untándolas ligeramente con aceite y las vamos rellenando poniendo unas cucharadas de la mezcla en los márgenes y enrollamos como si fuese un canelón y las colocaremos en un molde engrasado con aceite en forma de espiral comenzando del centro a fuera.
 
 - Engrasamos la tarta por encima y le echamos tambén unas gotitas de agua y así nos quedará más crujiente al hornearlo.
 
