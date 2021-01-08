@@ -1,5 +1,5 @@
 ---
-title: "carrilleras de cerdo ibérico al curry"
+title: "Carrilleras de cerdo ibérico al curry"
 header:
   image: /assets/images/carrilleras curry.jpg
   caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CJtVRVuFz67/)"
