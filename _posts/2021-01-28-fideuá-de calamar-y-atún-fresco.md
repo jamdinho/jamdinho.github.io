@@ -41,4 +41,4 @@ toc_label: "Contenido"
 
 - Con el sofrito listo añadimos el pimentón y lo mezclamos bien, echamos los fideos y el caldo (no añadir mucho de golpe para que no se pasen de cocción los fideos, mejor añadirle poco a poco).
 
-- Cuando rompa a hervir rectificamos de sal y dejamos cocer a fuego/medio hasta que el fideo esté aldente y en ese momento echamos el atún, dejamos un par de minutos y lo retiremos del fuego y que repose tapando la cazuela unos 5 minutos y lo tendremos listo para disfrutarlo.
+- Cuando rompa a hervir rectificamos de sal y dejamos cocer a fuego/medio hasta que el fideo esté aldente y en ese momento echamos el atún, dejamos un par de minutos y lo retiremos del fuego y que repose tapando la cazuela unos 5 minutos y lo tendremos listo para disfrutarlo, yo acosejo comerlo acompañado con un buen alioli.
