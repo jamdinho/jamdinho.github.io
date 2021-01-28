@@ -1,5 +1,5 @@
 ---
-title: "Fideuá de calamar y atún fresco
+title: "Fideuá de calamar y atún fresco"
 header:
   image: /assets/images/fideua calamar y atun.jpg
   caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CKjZc-8Fzp6/)"
