@@ -1,6 +1,5 @@
 ---
-title: "
-rollitos de calabacín rellenos de salmón ahumado"
+title: "Rollitos de calabacín rellenos de salmón ahumado"
 header:
   image: /assets/images/rollitos calabacin.jpg
   caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CG2j950lqTC/)"
