@@ -21,7 +21,7 @@ toc_label: "Contenido"
 - Ralladura de una naranja
 - 16 gr.levadura química o polvo de hornear
 - Pizca de sal
-- 160 gr. chocolate para la cobertra
+- 160 gr. chocolate para la cobertura
 
 
 ## Elaboración
