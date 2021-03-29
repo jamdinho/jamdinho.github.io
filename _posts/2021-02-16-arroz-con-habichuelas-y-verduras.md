@@ -1,8 +1,7 @@
 ---
 title: "Arroz con habichuelas y verduras"
 header:
-  overlay_image: /assets/images/arroz con habichuelas.jpg
-  show_overlay_excerpt: false
+  image: /assets/images/arroz con habichuelas.jpg
   caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CLUUhMTF7xz/)"
 tags:
   - platos principales
