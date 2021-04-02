@@ -9,7 +9,7 @@ toc: true
 toc_label: "Contenido"
 ---
 
-Seguramente estamos ante uno de los alimentos más utilizados en todo el mundo como es el arroz, muchas variedades e infinidad de maneras de prepararlo, aquí en España la forma más tradicional y conocida es la paella aunque dependiendo de la zona o región también lo encontraréis como por ejemplo, arroz con conejo, arroz con pollo, arroz con bogavante o como en esta receta un rico arroz con bacalao y ajos tiernos.
+Seguramente estamos ante uno de los alimentos más utilizados en todo el mundo como es el arroz, muchas variedades e infinidad de maneras de prepararlo, aquí en España la forma más tradicional y conocida es la paella aunque dependiendo de la zona o región también lo encontraréis como por ejemplo, arroz con conejo, arroz con pollo, arroz con bogavante o como en esta receta, arroz con bacalao y ajos tiernos.
 
 
 ## Ingredientes
