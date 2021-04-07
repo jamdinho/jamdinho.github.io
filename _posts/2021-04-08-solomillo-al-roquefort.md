@@ -18,7 +18,7 @@ Una receta muy fácil de resolver y no por ello menos rica, este solomillo de ce
 - 1/2 cebolleta tierna
 - 80 gr. queso Roquefort
 - 200 ml. de nata para cocinar
-- 8 o 10 champiñones
+- 8 champiñones
 - 1 diente de ajo
 - Perejil picado
 - Pimienta negra molida
