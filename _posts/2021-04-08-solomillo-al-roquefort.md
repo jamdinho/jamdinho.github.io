@@ -1,7 +1,7 @@
 ---
 title: "Solomillo al Roquefort"
 header:
-  image: /assets/images/solomillo al roquefort.jpg
+  image: /assets/images/Solomillo al roquefort.jpg
   caption: "Instagram: [@jamdinho](https://www.instagram.com/p/CNVItmFlDH5/)"
 tags:
   - platos principales
