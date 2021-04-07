@@ -36,4 +36,4 @@ Una receta muy fácil de resolver y no por ello menos rica, este solomillo de ce
 
 - En este caso yo preparé unos champiñones salteados con ajo y perejil de guarnición, pero podéis acompañar el solomillo con unas patatas fritas, unas verduras salteadas o incluso una ensalada.
 
-- Por último solo nos queda emplatar el solomillo y echarle la salsa bien caliente por encima a nuestro gusto y a disfrutarlo.
+- Por último solo nos queda emplatar el solomillo y echarle la salsa bien caliente por encima a nuestro gusto y a disfrutar.
