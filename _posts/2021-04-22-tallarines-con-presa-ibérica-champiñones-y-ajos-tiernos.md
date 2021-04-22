@@ -17,7 +17,7 @@ Os aseguro amigos que si ponéis en práctica esta receta la váis a repetir muc
 - 350 gr. de tallarines
 - 300 gr. presa ibérica
 - 1 cebolleta tierna
-- 2 dientes de ajo
+- 4 ajos tiernos
 - 8 champiñones medianos
 - 1/2 vaso de vino blanco
 - 200 ml. nata para cocinar
