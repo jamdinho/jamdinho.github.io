@@ -29,6 +29,7 @@ La combinación de los ingredientes de esta receta esun auténtico regalo para e
 - 50 gr. mantequilla
 - 50 gr. harina de trigo
 - 700 ml. leche
+- Sal
 - Pimienta negra al gusto
 - Nuez moscada al gusto  
 
